@@ -1,4 +1,4 @@
-# Task: SQLite CRUD Operations
+# Task-2: SQLite CRUD Operations
 
 This repository contains the SQL script completed as part of my internship tasks.  
 The script demonstrates basic **CRUD (Create, Read, Update, Delete)** operations using SQLite.
@@ -28,7 +28,7 @@ These operations help understand real-world database handling.
 
 ## Files Included
 
-### **task.sql**
+### **Task2.sql**
 Contains all SQL queries such as:
 
 - **CREATE** table  
@@ -43,6 +43,6 @@ Contains all SQL queries such as:
 1. Open VS Code  
 2. Install SQLTools + SQLite driver  
 3. Create/open a database (example: `mydb.db`)  
-4. Open `task.sql`  
+4. Open `Task2.sql`  
 5. Right-click → **Run Query**  
 
